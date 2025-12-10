@@ -1,0 +1,2 @@
+future~=1.0.0
+tkintermapview~=1.29
